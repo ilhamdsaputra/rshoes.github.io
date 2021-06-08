@@ -61,7 +61,7 @@ a {
 	bottom: 0;
 	left: -300px;
 	width:300px;
-	background-color: rgba(16, 47, 80, .9);
+	background-color: rgba(0, 0, 0, 0.9);
 	transition: .3s;
 	z-index: 9999;
 }
@@ -81,9 +81,9 @@ a {
 }
 .banner {
 	background-color: #707070;
-	padding:200px 0;
+	padding: 200px 0;
 	background-image: url("../img/background.png") ;
-	background-size: cover;
+
 
 	
 }
